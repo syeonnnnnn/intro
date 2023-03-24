@@ -1,0 +1,25 @@
+#dog{
+    float: left;
+    margin: 20px 0 10px 0px;
+}
+
+#add{
+    float: right;
+    font-family: 'Gaegu', cursive;
+    font-size: large;
+    font-weight: bold;
+    border: 3px solid gray;
+    padding: 25px;
+    margin: 20px 100px 0 0px;
+}
+
+#add2{
+    font-family: 'Gaegu', cursive;
+    font-size: x-large;
+    float: right;
+    margin: 230px 150px 0 0px;
+}
+
+#git{
+    margin: 520px 0 0 0;
+}
